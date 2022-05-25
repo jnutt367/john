@@ -42,7 +42,7 @@
 }
 
 .title {
-    margin: 0;
+    margin: 3rem;
     line-height: 1.15;
     font-size: 4rem;
     font-family: cursive;
@@ -85,6 +85,8 @@
     padding: 1.5rem;
     text-align: left;
     color: inherit;
+    max-height: 300px;
+    overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
@@ -96,10 +98,11 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: white;
-    border-color: hsl(14, 100%, 48%);
-    background-color: palevioletred;
+    color: purple;
+    border-color: hsl(212, 100%, 48%);
+    background-image: url(/giphy-cloud.gif);
     opacity: 0.85;
+    overflow: scroll;
     font-family: fantasy;
 }
 
@@ -137,6 +140,11 @@
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
     font-family: fantasy;
+}
+
+.illustration {
+    border-radius: 15px;
+    margin: 3rem;
 }
 
 .h2:hover {
