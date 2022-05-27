@@ -1,6 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/jesus.gif);
+    background-image: url(/gold.gif);
     background-size: contain;
 }
 
@@ -66,7 +66,7 @@
     opacity: 0.7;
     border-radius: 5px;
     padding: 0.75rem;
-    color: black;
+    color: white;
     font-size: x-large;
     text-decoration: underline;
     font-family: fantasy;
@@ -98,9 +98,12 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: purple;
+    color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/giphy-cloud.gif);
+    background-image: url(/jesus.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
     opacity: 0.85;
     overflow: scroll;
     font-family: fantasy;
@@ -125,7 +128,7 @@
 
 .publisher {
     font-family: monospace;
-    color: black;
+    color: white;
     font-size: 1.5rem;
 }
 
@@ -164,7 +167,7 @@
 
 @media (max-width: 900px) {
     .container {
-        background-image: url(/jesus.gif);
+        background-image: url(/gold.gif);
         background-size: contain;
         background-repeat: repeat;
     }
