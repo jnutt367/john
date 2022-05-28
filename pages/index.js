@@ -20,7 +20,7 @@ export default function Home() {
           src="/45-john.jpeg"
           alt="new testament illustration"
           layout="intrinsic"
-          height="600px"
+          height="900px"
           width="900px"
         />
        </a>
@@ -29,7 +29,7 @@ export default function Home() {
           <code className={styles.publisher}>Each Card contains a chapter in John's gospel </code>
         </p>
         <div className={styles.grid}>
-        <a href="#" className={styles.card}>
+        <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
             <p>
             The Word Became Flesh
@@ -105,9 +105,9 @@ Jesus answered, “I saw you while you were still under the fig tree before Phil
 
 
             </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 2 &darr;</h2>
             <p>
             Jesus Changes Water Into Wine
@@ -140,10 +140,9 @@ Jesus Clears the Temple Courts
 
 23 Now while he was in Jerusalem at the Passover Festival, many people saw the signs he was performing and believed in his name.[d] 24 But Jesus would not entrust himself to them, for he knew all people. 25 He did not need any testimony about mankind, for he knew what was in each person.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 3 &darr;</h2>
@@ -172,10 +171,9 @@ John Testifies Again About Jesus
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 4 &darr;</h2>
@@ -249,9 +247,9 @@ The man took Jesus at his word and departed. 51 While he was still on the way, h
 
             </p>
 
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 5 &darr;</h2>
             <p>
             The Healing at the Pool
@@ -291,9 +289,9 @@ Testimonies About Jesus
 
 45 “But do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set. 46 If you believed Moses, you would believe me, for he wrote about me. 47 But since you do not believe what he wrote, how are you going to believe what I say?”
             </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 6 &darr;</h2>
             <p>
             Jesus Feeds the Five Thousand
@@ -354,10 +352,9 @@ Many Disciples Desert Jesus
 
 70 Then Jesus replied, “Have I not chosen you, the Twelve? Yet one of you is a devil!” 71 (He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray him.)
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 7 &darr;</h2>
@@ -418,10 +415,9 @@ Unbelief of the Jewish Leaders
 
 53 Then they all went home,
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 8 &darr;</h2>
@@ -490,9 +486,8 @@ Jesus’ Claims About Himself
 
 58 “Very truly I tell you,” Jesus answered, “before Abraham was born, I am!” 59 At this, they picked up stones to stone him, but Jesus hid himself, slipping away from the temple grounds.
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 9 &darr;</h2>
@@ -564,9 +559,8 @@ Spiritual Blindness
 
 
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 10 &darr;</h2>
@@ -597,9 +591,8 @@ Further Conflict Over Jesus’ Claims
 
 40 Then Jesus went back across the Jordan to the place where John had been baptizing in the early days. There he stayed, 41 and many people came to him. They said, “Though John never performed a sign, all that John said about this man was true.” 42 And in that place many believed in Jesus.
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 11 &darr;</h2>
@@ -674,11 +667,10 @@ The Plot to Kill Jesus
 
 55 When it was almost time for the Jewish Passover, many went up from the country to Jerusalem for their ceremonial cleansing before the Passover. 56 They kept looking for Jesus, and as they stood in the temple courts they asked one another, “What do you think? Isn’t he coming to the festival at all?” 57 But the chief priests and the Pharisees had given orders that anyone who found out where Jesus was should report it so that they might arrest him.
             </p>
-          </a>
+          </div>
 
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 12 &darr;</h2>
@@ -750,10 +742,9 @@ so they can neither see with their eyes,
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 13 &darr;</h2>
@@ -807,10 +798,9 @@ Jesus replied, “Where I am going, you cannot follow now, but you will follow l
 
 38 Then Jesus answered, “Will you really lay down your life for me? Very truly I tell you, before the rooster crows, you will disown me three times!
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 14 &darr;</h2>
@@ -840,10 +830,9 @@ Jesus Promises the Holy Spirit
 
 “Come now; let us leave.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 15 &darr;</h2>
@@ -861,10 +850,9 @@ The World Hates the Disciples
 The Work of the Holy Spirit
 26 “When the Advocate comes, whom I will send to you from the Father—the Spirit of truth who goes out from the Father—he will testify about me. 27 And you also must testify, for you have been with me from the beginning.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 16 &darr;</h2>
@@ -888,10 +876,9 @@ The Disciples’ Grief Will Turn to Joy
 
 33 “I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 17 &darr;</h2>
@@ -913,11 +900,10 @@ Jesus Prays for All Believers
 
 25 “Righteous Father, though the world does not know you, I know you, and they know that you have sent me. 26 I have made you[e] known to them, and will continue to make you known in order that the love you have for me may be in them and that I myself may be in them.”
             </p>
-          </a>
+          </div>
 
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 18 &darr;</h2>
@@ -995,10 +981,9 @@ Jesus answered, “You say that I am a king. In fact, the reason I was born and 
 
 40 They shouted back, “No, not him! Give us Barabbas!” Now Barabbas had taken part in an uprising.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 19 &darr;</h2>
@@ -1060,11 +1045,10 @@ The Death of Jesus
 The Burial of Jesus
 38 Later, Joseph of Arimathea asked Pilate for the body of Jesus. Now Joseph was a disciple of Jesus, but secretly because he feared the Jewish leaders. With Pilate’s permission, he came and took the body away. 39 He was accompanied by Nicodemus, the man who earlier had visited Jesus at night. Nicodemus brought a mixture of myrrh and aloes, about seventy-five pounds.[e] 40 Taking Jesus’ body, the two of them wrapped it, with the spices, in strips of linen. This was in accordance with Jewish burial customs. 41 At the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid. 42 Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
             </p>
-          </a>
+          </div>
 
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 20 &darr;</h2>
@@ -1112,10 +1096,9 @@ But he said to them, “Unless I see the nail marks in his hands and put my fing
 The Purpose of John’s Gospel
 30 Jesus performed many other signs in the presence of his disciples, which are not recorded in this book. 31 But these are written that you may believe[b] that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 21 &darr;</h2>
@@ -1162,7 +1145,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
 
 25 Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.
             </p>
-          </a>
+          </div>
 
 
          
