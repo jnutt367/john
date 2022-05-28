@@ -203,5 +203,6 @@
         justify-content: center;
         flex-direction: column;
         align-items: center;
+        margin-left: -2rem;
     }
 }
