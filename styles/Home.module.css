@@ -30,6 +30,17 @@
     flex-grow: 1;
 }
 
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: cursive;
+}
+
 .title a {
     color: white;
     text-decoration: none;
