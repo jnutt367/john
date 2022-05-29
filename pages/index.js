@@ -44,18 +44,18 @@ export default function Home() {
         <h1 className={styles.title}>
           The Gospel of <a href="#"> John</a>
         </h1>
-        <a className="mt-10" href="https://bibleproject.com/downloads/posters/#load-posters-311">
-        <Image className={styles.illustration}
-          src="/45-john.jpeg"
+        <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
+        <Image className={styles.card1}
+          src="/Jesus-color-silhouette-low-poly-pattern.svg"
           alt="new testament illustration"
           layout="intrinsic"
-          height="900px"
-          width="900px"
+          height="300px"
+          width="300px"
         />
-       </a>
+        </a>
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Each Card contains a chapter in John's gospel </code>
+          <code className={styles.publisher}>Click & Scroll through each chapter in John's gospel </code>
         </p>
         <div className={styles.grid}>
         <div className={styles.card}>
