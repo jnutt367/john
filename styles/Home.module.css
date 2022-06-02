@@ -5,6 +5,7 @@
 }
 
 .main {
+    border-radius: 15px;
     min-height: 100vh;
     background-color: #eaeaea;
     padding: 4rem 0;
