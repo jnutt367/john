@@ -40,6 +40,22 @@ export default function Home() {
           </nav>
         </div>
       </header>
+
+      <div className={styles.flex}>
+            <Image
+              src="/Jesus-color-silhouette-low-poly-pattern.svg"
+              height={50}
+              width={100}
+              className="mt-10"
+              objectFit="cover"
+              alt="Jesus Logo"
+            />
+
+<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
+            <button className={styles.code}>
+                DONATE
+            </button>
+        </div>
       <main className={styles.main}>
         <h1 className={styles.title}>
           The Gospel of <a href="#"> John</a>
