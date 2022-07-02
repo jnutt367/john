@@ -58,12 +58,12 @@ export default function Home() {
         </div>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The Gospel of <a href="#"> John</a>
+           <a href="https://en.wikipedia.org/wiki/Gospel_of_John"> John</a>
         </h1>
        
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Click & Scroll through each chapter in John's gospel </code>
+          <code className={styles.publisher}>&darr; Scroll &darr;</code>
         </p>
         <div className={styles.grid}>
         <div className={styles.card}>
@@ -1188,7 +1188,11 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
          
 
    </div>
-       
+   <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
       </main>
 
       <footer className={styles.footer}>
