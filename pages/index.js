@@ -53,7 +53,7 @@ export default function Home() {
 
 <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
            
-           <a href="https://www.linkedin.com/in/jnuttlovedisciple/">
+           <a href="https://index-olive-two.vercel.app/">
             <button className={styles.code}>
                 INDEX
             </button>
