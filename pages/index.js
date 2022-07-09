@@ -41,16 +41,13 @@ export default function Home() {
         </div>
       </header>
 
-      <div className={styles.flex}>
-            <Image
-              src="/Jesus-color-silhouette-low-poly-pattern.svg"
-              height={50}
-              width={100}
-              className="mt-10"
-              objectFit="cover"
-              alt="Jesus Logo"
-            />
-
+     
+      <main className={styles.main}>
+        <h1 className={styles.title}>
+           <a href="https://en.wikipedia.org/wiki/Gospel_of_John"> John</a>
+        </h1>
+        <div className={styles.flex}>
+         
 <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
            
            <a href="https://index-olive-two.vercel.app/">
@@ -59,11 +56,6 @@ export default function Home() {
             </button>
             </a>
         </div>
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-           <a href="https://en.wikipedia.org/wiki/Gospel_of_John"> John</a>
-        </h1>
-       
         <p className={styles.description}>
           
           <code className={styles.publisher}>&darr; Scroll &darr;</code>
