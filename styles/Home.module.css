@@ -84,15 +84,16 @@
 }
 
 
- .title {
+.title {
   position: relative;
   top: -50px;
   margin-top: 0;
-  font-family: Ariel, sans;
+  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: 2px 2px grey;
   font-size: 64px;
-  margin-bottom: 3rem;
+  margin-bottom: 2.7rem;
 }
+
 
 
 .title,
@@ -102,7 +103,7 @@
 
 .description {
     color: grey;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px black;
     padding: 2rem;
     padding-right: 3rem;
     margin: 0rem 0;
@@ -113,13 +114,15 @@
 .button {
     width:100%;
     background-color: silver;
+    border-radius: 15px;
 }
 
 
 .button:hover {
     color: black;
     text-shadow: 1.5px 1.5px white;
-    opacity: 0.9;
+    opacity: 1;
+    border-style: 2p inset black;
     cursor:pointer;
 }
 
@@ -201,7 +204,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/monophy.gif);
+    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -248,9 +251,8 @@
 }
 
 .publisher {
-    font-family: monospace;
-    color: orange;
-    font-size: 2.5rem;
+    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+    color: flex;
     margin-left: 2rem;
 }
 
@@ -272,12 +274,6 @@
     }
 }
 
-@media (max-width: 500px) {
-    .publisher {
-        font-size: 1.5rem;
-    }
-   
-}
 
 @media (min-width: 600px) {
    
