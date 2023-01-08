@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/john.jpg"
+                                src="/book-john-king-james.jpg"
                                 alt="john image"
                                 height={900}
                                 width={2000}
@@ -27,6 +27,9 @@ export default function Home() {
                           
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}>HOME</button>
+       </a>
+       <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}>BOOKMARK</button>
        </a>
         <div className={styles.grid}>
         <div className={styles.card}>
