@@ -14,7 +14,7 @@ export default function Home() {
      
       <main className={styles.main}>
         <h1 className={styles.title}>
-           <a href="https://en.wikipedia.org/wiki/Gospel_of_John">The Book Of</a>
+          JOHN
         </h1>
          <div className={styles.hero}>
        <Image 
