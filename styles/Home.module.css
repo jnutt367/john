@@ -138,16 +138,16 @@
 .nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .button {
     color: white;
     height: 30px;
     width: 55px;
     font-size: 7px;
-    background-color: #800080;
+    background-color: #FFFDB777;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 5px;
 }
 
