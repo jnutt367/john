@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/mary-mother-jesus-john-beloved-disciple-mary-magdalene-crucifixion_24381-1879.webp"
+                                src="/illustration-jesus-baptized-by-john-baptist-biblical-series_29028-345.webp"
                                 alt="john image"
                                 height={900}
                                 width={2000}
