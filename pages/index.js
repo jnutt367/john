@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
          <div className={styles.hero}>
        <Image 
-                                src="/illustration-jesus-baptized-by-john-baptist-biblical-series_29028-345.webp"
+                                src="/lazarus.jpg"
                                 alt="john image"
                                 height={900}
                                 width={2000}
