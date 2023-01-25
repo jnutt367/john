@@ -1,13 +1,11 @@
 .container {
-    padding: 0 2rem;
-    background-color:  #9F2B68;
-    background-size: cover;
+    
+    background-color: #9F2B68;
     background-repeat: no-repeat;
 }
 
 .main {
     background-color: #9F2B68;
-    background-size: cover;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -193,7 +191,7 @@
     border: 1px solid #eaeaea;
     border-radius: 10px;
     transition: color 1s ease, border-color 0.15s ease;
-    max-width: 300px;
+    max-width: 100%;
     font-family: monospace;
 }
 
@@ -285,5 +283,9 @@
     .flex {
         display: grid;
     }
-    
+    .card {
+       margin: 0;
+       margin-top: 1rem;
+       max-width: 100%;
+    }
 }
