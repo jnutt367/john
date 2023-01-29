@@ -17,13 +17,15 @@ export default function Home() {
           JOHN
         </h1>
          <div className={styles.hero}>
-       <Image 
-                                src="/lazarus.jpg"
-                                alt="john image"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+                  <div className={styles.image}>
+             <Image 
+                                      src="/lazarus.jpg"
+                                      alt="john image"
+                                      height={900}
+                                      width={2000}
+                                      priority
+                                    />
+                  </div>                      
                <div className={styles.nav}>           
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
