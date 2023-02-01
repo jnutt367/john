@@ -27,7 +27,7 @@ export default function Home() {
                                     />
                   </div>                      
                <div className={styles.nav}>           
-      <a href="https://matthew-coral.vercel.app/">
+      <a href="https://luke-three.vercel.app/">
              <Image 
                                 src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
                                 alt="Jesus"
@@ -47,7 +47,7 @@ export default function Home() {
                               />
            
         </a> 
-         <a href="https://luke-three.vercel.app/">
+         <a href="https://acts-zeta.vercel.app/">
            <Image 
                                 src="/jean_victor_balin_arrow_orange_right.png"
                                 alt="Jesus"
