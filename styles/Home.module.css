@@ -324,6 +324,10 @@
         align-items: center;
         margin-left: -2rem;
     }
+    .nav {
+        margin-left: 200px;
+        margin-right: 200px;     
+    }
 }
 
 
@@ -334,7 +338,7 @@
     }
     .nav {
         margin-left: 200px;
-        nargin-right: 200px;     
+        margin-right: 200px;     
     }
 }
    
