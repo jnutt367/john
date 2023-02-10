@@ -36,34 +36,35 @@ export default function Home() {
                   </div>                      
                <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
-             <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
-                                alt="Jesus"
-                                 height={100}
+           <Image
+                                src="/left-arrow.jpg"
+                                alt="Left arrow"
+                                height={100}
                                 width={100}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
-            <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
-                                alt="Jesus"
-                                 height={100}
+               <Image
+                                src="/down.jpg"
+                                alt="Donate Button"
+                                height={100}
                                 width={100}
                                 priority
                               />
+        </a> 
            
         </a> 
          <a href="https://acts-zeta.vercel.app/">
-           <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
-                                alt="Jesus"
-                                 height={100}
+               <Image
+                                src="/right-arrow.jpg"
+                                alt="right arrow"
+                                height={100}
                                 width={100}
                                 priority
                               />
-           
+       </a> 
         </a> 
          
                </div>
