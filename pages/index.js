@@ -64,7 +64,7 @@ export default function Home() {
                                 width={100}
                                 priority
                               />
-       </a> 
+      
         </a> 
          
                </div>
