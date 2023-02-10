@@ -55,7 +55,7 @@ export default function Home() {
                               />
         </a> 
            
-        </a> 
+       
          <a href="https://acts-zeta.vercel.app/">
                <Image
                                 src="/right-arrow.jpg"
