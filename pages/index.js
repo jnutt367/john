@@ -71,7 +71,7 @@ export default function Home() {
 
         <div className={styles.grid}>
         <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+             <h2  className={styles.chapter}>John Chapter I</h2>
             <p>
             The Word Became Flesh
 1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made. 4 In him was life, and that life was the light of all mankind. 5 The light shines in the darkness, and the darkness has not overcome[a] it.
@@ -149,7 +149,7 @@ Jesus answered, “I saw you while you were still under the fig tree before Phil
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter II</h2>
             <p>
             Jesus Changes Water Into Wine
 2 On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there, 2 and Jesus and his disciples had also been invited to the wedding. 3 When the wine was gone, Jesus’ mother said to him, “They have no more wine.”
@@ -186,7 +186,7 @@ Jesus Clears the Temple Courts
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter III</h2>
             <p>
             Jesus Teaches Nicodemus
 3 Now there was a Pharisee, a man named Nicodemus who was a member of the Jewish ruling council. 2 He came to Jesus at night and said, “Rabbi, we know that you are a teacher who has come from God. For no one could perform the signs you are doing if God were not with him.”
@@ -217,7 +217,7 @@ John Testifies Again About Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+             <h2  className={styles.chapter}>John Chapter IV</h2>
             <p>
             Jesus Talks With a Samaritan Woman
 4 Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John— 2 although in fact it was not Jesus who baptized, but his disciples. 3 So he left Judea and went back once more to Galilee.
@@ -291,7 +291,7 @@ The man took Jesus at his word and departed. 51 While he was still on the way, h
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 5 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter V</h2>
             <p>
             The Healing at the Pool
 5 Some time later, Jesus went up to Jerusalem for one of the Jewish festivals. 2 Now there is in Jerusalem near the Sheep Gate a pool, which in Aramaic is called Bethesda[a] and which is surrounded by five covered colonnades. 3 Here a great number of disabled people used to lie—the blind, the lame, the paralyzed. [4] [b] 5 One who was there had been an invalid for thirty-eight years. 6 When Jesus saw him lying there and learned that he had been in this condition for a long time, he asked him, “Do you want to get well?”
@@ -333,7 +333,7 @@ Testimonies About Jesus
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 6 &darr;</h2>
+           <h2  className={styles.chapter}>John Chapter VI</h2>
             <p>
             Jesus Feeds the Five Thousand
 6 Some time after this, Jesus crossed to the far shore of the Sea of Galilee (that is, the Sea of Tiberias), 2 and a great crowd of people followed him because they saw the signs he had performed by healing the sick. 3 Then Jesus went up on a mountainside and sat down with his disciples. 4 The Jewish Passover Festival was near.
@@ -398,7 +398,7 @@ Many Disciples Desert Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 7 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter VII</h2>
             <p>
             Jesus Goes to the Festival of Tabernacles
 7 After this, Jesus went around in Galilee. He did not want[a] to go about in Judea because the Jewish leaders there were looking for a way to kill him. 2 But when the Jewish Festival of Tabernacles was near, 3 Jesus’ brothers said to him, “Leave Galilee and go to Judea, so that your disciples there may see the works you do. 4 No one who wants to become a public figure acts in secret. Since you are doing these things, show yourself to the world.” 5 For even his own brothers did not believe in him.
@@ -461,7 +461,7 @@ Unbelief of the Jewish Leaders
           <div
             className={styles.card}
           >
-            <h2>Chapter 8 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter VIII</h2>
             <p>
             8 1 but Jesus went to the Mount of Olives.
 
@@ -531,7 +531,7 @@ Jesus’ Claims About Himself
           <div
             className={styles.card}
           >
-            <h2>Chapter 9 &darr;</h2>
+             <h2  className={styles.chapter}>John Chapter IX</h2>
             <p>
             Jesus Heals a Man Born Blind
 9 As he went along, he saw a man blind from birth. 2 His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”
@@ -604,7 +604,7 @@ Spiritual Blindness
           <div
             className={styles.card}
           >
-            <h2>Chapter 10 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter X</h2>
             <p>
             The Good Shepherd and His Sheep
 10 “Very truly I tell you Pharisees, anyone who does not enter the sheep pen by the gate, but climbs in by some other way, is a thief and a robber. 2 The one who enters by the gate is the shepherd of the sheep. 3 The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out. 4 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice. 5 But they will never follow a stranger; in fact, they will run away from him because they do not recognize a stranger’s voice.” 6 Jesus used this figure of speech, but the Pharisees did not understand what he was telling them.
@@ -636,7 +636,7 @@ Further Conflict Over Jesus’ Claims
           <div
             className={styles.card}
           >
-            <h2>Chapter 11 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XI</h2>
             <p>
             The Death of Lazarus
 11 Now a man named Lazarus was sick. He was from Bethany, the village of Mary and her sister Martha. 2 (This Mary, whose brother Lazarus now lay sick, was the same one who poured perfume on the Lord and wiped his feet with her hair.) 3 So the sisters sent word to Jesus, “Lord, the one you love is sick.”
@@ -714,7 +714,7 @@ The Plot to Kill Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 12 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XII</h2>
             <p>
             Jesus Anointed at Bethany
 12 Six days before the Passover, Jesus came to Bethany, where Lazarus lived, whom Jesus had raised from the dead. 2 Here a dinner was given in Jesus’ honor. Martha served, while Lazarus was among those reclining at the table with him. 3 Then Mary took about a pint[a] of pure nard, an expensive perfume; she poured it on Jesus’ feet and wiped his feet with her hair. And the house was filled with the fragrance of the perfume.
@@ -788,7 +788,7 @@ so they can neither see with their eyes,
           <div
             className={styles.card}
           >
-            <h2>Chapter 13 &darr;</h2>
+           <h2  className={styles.chapter}>John Chapter XIII</h2>
             <p>
             Jesus Washes His Disciples’ Feet
 13 It was just before the Passover Festival. Jesus knew that the hour had come for him to leave this world and go to the Father. Having loved his own who were in the world, he loved them to the end.
@@ -844,7 +844,7 @@ Jesus replied, “Where I am going, you cannot follow now, but you will follow l
           <div
             className={styles.card}
           >
-            <h2>Chapter 14 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XIV</h2>
             <p>
             Jesus Comforts His Disciples
 14 “Do not let your hearts be troubled. You believe in God[a]; believe also in me. 2 My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? 3 And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am. 4 You know the way to the place where I am going.”
@@ -876,7 +876,7 @@ Jesus Promises the Holy Spirit
           <div
             className={styles.card}
           >
-            <h2>Chapter 15 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XV</h2>
             <p>
             The Vine and the Branches
 15 “I am the true vine, and my Father is the gardener. 2 He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes[a] so that it will be even more fruitful. 3 You are already clean because of the word I have spoken to you. 4 Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me.
@@ -896,7 +896,7 @@ The Work of the Holy Spirit
           <div
             className={styles.card}
           >
-            <h2>Chapter 16 &darr;</h2>
+          <h2  className={styles.chapter}>John Chapter XVI</h2>
             <p>
             16 “All this I have told you so that you will not fall away. 2 They will put you out of the synagogue; in fact, the time is coming when anyone who kills you will think they are offering a service to God. 3 They will do such things because they have not known the Father or me. 4 I have told you this, so that when their time comes you will remember that I warned you about them. I did not tell you this from the beginning because I was with you, 5 but now I am going to him who sent me. None of you asks me, ‘Where are you going?’ 6 Rather, you are filled with grief because I have said these things. 7 But very truly I tell you, it is for your good that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send him to you. 8 When he comes, he will prove the world to be in the wrong about sin and righteousness and judgment: 9 about sin, because people do not believe in me; 10 about righteousness, because I am going to the Father, where you can see me no longer; 11 and about judgment, because the prince of this world now stands condemned.
 
@@ -922,7 +922,7 @@ The Disciples’ Grief Will Turn to Joy
           <div
             className={styles.card}
           >
-            <h2>Chapter 17 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XVII</h2>
             <p>
             Jesus Prays to Be Glorified
 17 After Jesus said this, he looked toward heaven and prayed:
@@ -947,7 +947,7 @@ Jesus Prays for All Believers
           <div
             className={styles.card}
           >
-            <h2>Chapter 18 &darr;</h2>
+           <h2  className={styles.chapter}>John Chapter XVIII</h2>
             <p>
             Jesus Arrested
 18 When he had finished praying, Jesus left with his disciples and crossed the Kidron Valley. On the other side there was a garden, and he and his disciples went into it.
@@ -1027,7 +1027,7 @@ Jesus answered, “You say that I am a king. In fact, the reason I was born and 
           <div
             className={styles.card}
           >
-            <h2>Chapter 19 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XIX</h2>
             <p>
             Jesus Sentenced to Be Crucified
 19 Then Pilate took Jesus and had him flogged. 2 The soldiers twisted together a crown of thorns and put it on his head. They clothed him in a purple robe 3 and went up to him again and again, saying, “Hail, king of the Jews!” And they slapped him in the face.
@@ -1092,7 +1092,7 @@ The Burial of Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 20 &darr;</h2>
+            <h2  className={styles.chapter}>John Chapter XX</h2>
             <p>
             The Empty Tomb
 20 Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance. 2 So she came running to Simon Peter and the other disciple, the one Jesus loved, and said, “They have taken the Lord out of the tomb, and we don’t know where they have put him!”
@@ -1142,7 +1142,7 @@ The Purpose of John’s Gospel
           <div
             className={styles.card}
           >
-            <h2>Chapter 21 &darr;</h2>
+             <h2  className={styles.chapter}>John Chapter XXI</h2>
             <p>
             Jesus and the Miraculous Catch of Fish
 21 Afterward Jesus appeared again to his disciples, by the Sea of Galilee.[a] It happened this way: 2 Simon Peter, Thomas (also known as Didymus[b]), Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together. 3 “I’m going out to fish,” Simon Peter told them, and they said, “We’ll go with you.” So they went out and got into the boat, but that night they caught nothing.
