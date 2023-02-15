@@ -6,10 +6,10 @@
 }
 .holy {
   backgroud-color: silver;
-  text-shadow: #ffa500 1px 0 10px;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
+  z-index:10;
   top: 52px;
   font-size: 36px;
   display: grid;
@@ -21,9 +21,9 @@
 .bible {
  position: relative;
   top: -0px;
+  z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 1px 0 10px;
   color: white;
   font-size: 64px;
   padding-left: 5px;
@@ -66,6 +66,8 @@
 }
 .arrow {
     border-radius: 50%;
+    height: 50px;
+    width: 50px;
 }
 .footer a {
     display: flex;
@@ -125,14 +127,13 @@
   color: white;
   position: sticky; 
   background-color: black;
-  opacity: 0.8;
+  opacity: 0.95;
   padding-top: 20px;
   padding-bottom: 20px;
   z-index: 1;
-  top: 0px;
-  margin-top: 0;
+  top: -20px;
+  margin-top: -80px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 4px 10px 25px;
   font-size: 64px;
 }
 
@@ -143,7 +144,6 @@
   top: 10px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
   font-size: 14px;
   margin-bottom: 0.5rem;
 }
@@ -219,7 +219,6 @@
     background-image: none;
     opacity: 0.9;
     background-size: cover;
-    text-shadow: 1px 1px white;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
@@ -240,13 +239,12 @@
 }
 
 .card {
-    background-image: url(/depositphotos_211313724-stock-photo-read-icon-read-website-button.jpg);
+    background-image: url(/52617427-bible-church-logo-the-name-of-the-mission-bible-society-.webp);
     background-size:contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
     color: transparent;
-    background-color: white;
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 1.5rem;
@@ -255,7 +253,6 @@
     overflow: scroll;
     text-decoration: none;
     border: 3px solid #eaeaea;
-    border-radius: 10px;
     transition: color 0.15s ease, border-color 2s ease;
     max-width: 400px;
     font-family: monospace;
@@ -264,25 +261,32 @@
     color: black;
     position: sticky; 
     z-index: 1;
+    width: 100%;
     text-align: center;
-    top: -30px;
-    margin-top: 10px;
-    padding-top: 10px;
+    top: -10px;
+    margin-top: 5px;
+    padding-top: 25px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+.chapter:hover,
+.chapter:focus,
+.chapter:active {
+    background-color: white;
+    opacity: 0.75;
 }
 .card:hover,
 .card:focus,
 .card:active {
     display: inline;
     color: black;
-    border-color: hsl(212, 100%, 48%);
+    opacity: 0.85;
+    border-color:  #ffa500;
     background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
     background-color: white;
-    opacity: 0.9;
     overflow: scroll;
     font-family: monospace;
 }
@@ -294,7 +298,6 @@
 }
 
 .card h2:hover {
-    text-shadow: 1px 1px white;
     color: black;
 }
 
@@ -306,7 +309,6 @@
 }
 
 .card p:hover {
-    text-shadow: 1px 1px white;
     font-weight: 900;
 }
 
