@@ -50,7 +50,7 @@
     padding-right: 100px;
     display: grid;
     place-items: center;
-    max-height: 900px; 
+    max-height: 700px; 
     margin-bottom: 1.5rem;
 }
 .footer {
@@ -188,7 +188,7 @@
 
 .nav {
     background-color: #ffa500;
-    opacity: 0.7;
+    opacity: 0.9;
     padding: 15px;
     display: flex;
     flex-direction: row;
@@ -242,6 +242,7 @@
     background-image: url(/52617427-bible-church-logo-the-name-of-the-mission-bible-society-.webp);
     background-size:contain;
     display: grid;
+    background-color: white;
     place-items: center;
     background-repeat: no-repeat;
     color: transparent;
@@ -249,12 +250,12 @@
     margin-bottom: 5rem;
     padding: 1.5rem;
     text-align: left;
-    max-height: 400px;
+    max-height: 365px;
     overflow: scroll;
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 2s ease;
-    max-width: 400px;
+    max-width: 365px;
     font-family: monospace;
 }
 .chapter {
@@ -263,26 +264,25 @@
     z-index: 1;
     width: 100%;
     text-align: center;
-    top: -10px;
-    margin-top: 5px;
-    padding-top: 25px;
+    top: 0px;
+    margin-top: 0px;
+    padding-top: 5px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 .chapter:hover,
 .chapter:focus,
 .chapter:active {
-    background-color: white;
-    opacity: 0.75;
+    font-weight: bolder;
 }
 .card:hover,
 .card:focus,
 .card:active {
     display: inline;
     color: black;
-    opacity: 0.85;
+    opacity: 0.9;
     border-color:  #ffa500;
-    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
+    background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
