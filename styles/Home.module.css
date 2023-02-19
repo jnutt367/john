@@ -10,7 +10,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
-  top: 52px;
+  top: 12px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -20,7 +20,7 @@
 }
 .bible {
  position: relative;
-  top: -0px;
+  top: -37px;
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -129,10 +129,10 @@
   position: sticky; 
   background-color: black;
   opacity: 0.95;
-  padding-top: 20px;
-  z-index: 1;
-  top: -20px;
-  margin-top: -80px;
+  padding-top: 40px;
+  z-index: 2;
+  top: -40px;
+  margin-top: -90px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
@@ -187,7 +187,7 @@
 }
 
 .nav {
-    background-color: #ffa500;
+    background-color: #ED7014;
     opacity: 0.9;
     padding: 15px;
     display: flex;
@@ -248,7 +248,7 @@
     color: transparent;
     margin: 1.5rem;
     margin-bottom: 5rem;
-    padding: 1.5rem;
+    padding: 0rem;
     text-align: left;
     max-height: 365px;
     overflow: scroll;
@@ -259,15 +259,17 @@
     font-family: monospace;
 }
 .chapter {
+    background-color: #ED7014;
     color: black;
+    opacity: 0.95;
     position: sticky; 
     z-index: 1;
     width: 100%;
     text-align: center;
     top: 0px;
-    margin-top: 0px;
-    padding-top: 5px;
-    padding-bottom: 10px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 .chapter:hover,
@@ -303,6 +305,7 @@
 
 .card p {
     margin: 0;
+    padding: 1.5rem;
     font-size: 1.25rem;
     line-height: 1.5;
     font-family: monospace;
