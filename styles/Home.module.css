@@ -132,11 +132,12 @@
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
-  top: -40px;
-  margin-top: -90px;
+  top: -80px;
+  margin-top: -135px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
+
 
 .instructions {
   text-align: center;
@@ -242,7 +243,7 @@
 }
 
 .card {
-    background-image: url(/white-cross-on-black-background.png);
+    background-image: url(/FlusteredLeafyAllosaurus-max-1mb.gif);
     background-size:contain;
     display: grid;
     place-items: center;
