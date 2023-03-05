@@ -314,7 +314,7 @@
 .chapter:focus,
 .chapter:active {
     font-weight: bolder;
-    display: block;
+    display: inline;
     opacity: 1;
 }
 .card:hover,
