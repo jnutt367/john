@@ -296,6 +296,7 @@
     font-family: monospace;
 }
 .chapter {
+    display: none;
     background-color: #ED7014;
     color: black;
     opacity: 1;
@@ -313,6 +314,7 @@
 .chapter:focus,
 .chapter:active {
     font-weight: bolder;
+    display: grid;
     opacity: 1;
 }
 .card:hover,
