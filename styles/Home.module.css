@@ -272,7 +272,6 @@
 .card {
      background-image: url(/John_1.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
