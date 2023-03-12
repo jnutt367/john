@@ -69,7 +69,14 @@ export default function Home() {
        </a>           
          
                </div>
+       <p className={styles.fund}>(John 1:3 )
+Through him all things were made; without him nothing was made that has been made.
 
+ (John 1:4)
+In him was life, and that life was the light of all mankind.
+
+ (John 1:5)
+The light shines in the darkness, and the darkness has not overcome it.</p>
         <div className={styles.grid}>
         <div className={styles.card}>
              <h2  className={styles.chapter}>John Chapter I</h2>
