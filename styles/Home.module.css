@@ -68,7 +68,17 @@
   position:relative;
   top: 10px;
 }
-
+.fund {
+   text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 25px;
+    top: 5px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 900;
+}
 
 .image {
     background-image: url(/istockphoto-1300398224-612x612.jpg);
