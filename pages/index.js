@@ -69,9 +69,8 @@ export default function Home() {
        </a>           
          
                </div>
-       <p className={styles.fund}>(John 1:3-4)
-"without him nothing was made that has been made.
-In him was life, and that life was the light of all mankind."</p>
+       <p className={styles.fund}>(John 18:37)
+"You are a king, then!” said Pilate. Jesus answered, “You say that I am a king. </p>
         <div className={styles.grid}>
         <div className={styles.card}>
              <h2  className={styles.chapter}>John Chapter I</h2>
