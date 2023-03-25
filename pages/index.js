@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                      src="/john-2.jpg"
+                                      src="/icegif-6292.gif"
                                       alt="john image"
                                       height={900}
                                       width={2000}
@@ -69,8 +69,7 @@ export default function Home() {
        </a>           
          
                </div>
-       <p className={styles.fund}>(John 18:37)
-"You are a king, then!” said Pilate. Jesus answered, “You say that I am a king. </p>
+       <p className={styles.fund}>(John 8:12) “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.” </p>
         <div className={styles.grid}>
         <div className={styles.card}>
              <h2  className={styles.chapter}>John Chapter I</h2>
