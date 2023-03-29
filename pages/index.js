@@ -45,11 +45,13 @@ export default function Home() {
                               />
        </a>
 
-          <a href="https://gofund.me/a2b590af">
+         
              <p className={styles.donate}>
+                <a href="https://gofund.me/a2b590af">
                SUPPORT
+                </a>
                </p>
-       </a>
+       
            
        
          <a href="https://acts-zeta.vercel.app/">
