@@ -39,8 +39,8 @@ export default function Home() {
         <Image className={styles.arrow}
                                 src="/chevron-left.svg"
                                 alt="Left arrow"
-                                height={25}
-                                width={25}
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -58,8 +58,8 @@ export default function Home() {
                  <Image className={styles.arrow}
                                 src="/chevron-right.svg"
                                 alt="right arrow"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>           
