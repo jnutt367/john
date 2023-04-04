@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                      src="/67-123-John.jpg"
+                                      src="/lightoftheworld-jesuschrist.gif"
                                       alt="john image"
                                       height={900}
                                       width={2000}
@@ -1190,6 +1190,15 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
          
 
    </div>
+   <div className={styles.image}>
+             <Image 
+                                      src="/workshop.png"
+                                      alt="john image"
+                                      height={900}
+                                      width={2000}
+                                      priority
+                                    />
+                  </div>               
 </div>
    <p className={styles.description}> 
         <code className={styles.publisher}>
