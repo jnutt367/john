@@ -48,8 +48,8 @@ export default function Home() {
          
              <p className={styles.donate}>
                 <a href="https://gofund.me/a2b590af">
-               Support <br />
-                  Creator
+                  <br />
+               GIVE <br />
                 </a>
                </p>
        
