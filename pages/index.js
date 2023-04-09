@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                      src="/lightoftheworld-jesuschrist.gif"
+                                      src="/AlarmedFirsthandCanadagoose-size_restricted.gif"
                                       alt="john image"
                                       height={900}
                                       width={2000}
