@@ -66,7 +66,7 @@ export default function Home() {
        </a>           
          
                </div>
-       <p className={styles.fund}>(John 8:12) “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.” </p>
+       <p className={styles.fund}>(John 20:17-18) '"I am ascending to my Father and your Father, to my God and your God.’” 18 Mary Magdalene went to the disciples with the news: “I have seen the Lord!”'</p>
         <div className={styles.grid}>
         <div className={styles.card}>
              <h2  className={styles.chapter}>John Chapter I</h2>
