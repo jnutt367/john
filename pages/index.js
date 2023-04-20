@@ -51,13 +51,15 @@ export default function Home() {
        </a>
 
          
-             <p className={styles.donate}>
-                <a href="https://gofund.me/a2b590af">
-                  
-               Support<br />
-                Creator
-                </a>
-               </p>
+              <a href="https://gofund.me/a2b590af">
+              <Image className={styles.arrow}
+                                src="/fundme.png"
+                                alt="funding-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              /> 
+       </a>
        
            
        
