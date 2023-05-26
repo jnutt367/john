@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                src="/Praying.png"
+                                src="/john.webp"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
