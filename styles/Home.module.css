@@ -348,6 +348,7 @@
 .chapter:focus,
 .chapter:active {
     font-weight: bolder;
+    color:red;
     opacity: 1;
 }
 .card:hover,
