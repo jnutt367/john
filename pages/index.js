@@ -17,9 +17,9 @@ export default function Home() {
          
         
          <div className={styles.hero}>
-               <h2 className={styles.holy}>THE HOLY</h2>
+               <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
