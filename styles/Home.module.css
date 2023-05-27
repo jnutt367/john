@@ -237,7 +237,7 @@
     text-shadow: 1px 1px black;
     opacity: 1;
     border-style: 2px inset black;
-    cursor:pointer;
+    cursor: grab;
 }
 
 .span {
@@ -305,7 +305,7 @@
 }
 
 .card {
-    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-image: url(/john.webp;
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -355,13 +355,13 @@
 .card:focus,
 .card:active {
     display: inline;
-    color: black;
+    color: #800808;
     opacity: 1;
     border: 6px solid black;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    cursor: all-scroll;
+    cursor: grab;
     background-color: white;
     overflow: scroll;
     font-family: monospace;
