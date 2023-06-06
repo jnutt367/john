@@ -37,7 +37,7 @@ export default function Home() {
               
                             
  
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/G-2e9mMf7E8" title="YouTube video player" frameborder="7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+ 
   </div>   
                    
                <div className={styles.nav}>           
@@ -75,6 +75,10 @@ export default function Home() {
        </a>           
          
                </div>
+      <div className={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/G-2e9mMf7E8" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+
        <p className={styles.fund}>(John 20:17-18) '"I am ascending to my Father and your Father, to my God and your God.’” 18 Mary Magdalene went to the disciples with the news: “I have seen the Lord!”'</p>
         <div className={styles.grid}>
         <div className={styles.card}>
