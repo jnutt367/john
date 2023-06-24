@@ -39,8 +39,10 @@ export default function Home() {
  
  
   </div>   
-                   
-               <div className={styles.nav}>           
+                   <p className={styles.parables}>
+        The signs John reports are proof that Christ IS God & has supernatural powers. He also highlights, Jesus was fully human by showing when he was tired, sad, hungry & loving.                                 
+</p>
+                                  <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
         <Image className={styles.arrow}
                                 src="/chevron-left.svg"
