@@ -27,8 +27,8 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                src="/john.webp"
-                                alt="Nativity silent night gif"
+                                src="/risen_5.png"
+                                alt="in the beginning there was the WORD, and the word was GOD"
                                 height={900}
                                 width={2000}
                                 priority
