@@ -213,15 +213,16 @@
 .title {
   color: white;
   position: sticky; 
-  background-color:black;
+  background-color: black;
   opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
-  top: -30px;
-  margin-top: -135px;
+  top: -45px;
+  margin-top: -120px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
+
 
 
 .instructions {
