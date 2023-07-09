@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
                   <div className={styles.image}>
              <Image 
-                                src="/risen_5.png"
+                                src="/john2.png"
                                 alt="in the beginning there was the WORD, and the word was GOD"
                                 height={900}
                                 width={2000}
