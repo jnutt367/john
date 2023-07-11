@@ -78,7 +78,7 @@ export default function Home() {
          
                </div>
       <div className={styles.iframe}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/G-2e9mMf7E8" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/G-2e9mMf7E8?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
 
        <p className={styles.fund}>(John 20:17-18) '"I am ascending to my Father and your Father, to my God and your God.’” 18 Mary Magdalene went to the disciples with the news: “I have seen the Lord!”'</p>
@@ -1200,40 +1200,14 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
 25 Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.
             </p>
           </div>
+      </div>
 
-
-         
-
-   </div>
-   <div className={styles.image}>
-             <Image 
-                                      src="/workshop.png"
-                                      alt="john image"
-                                      height={900}
-                                      width={2000}
-                                      priority
-                                    />
-                  </div>               
-</div>
-   <p className={styles.description}> 
-        <code className={styles.publisher}>
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
-        </p>
+  <iframe width="100%" height="600" src="https://www.youtube.com/embed/RUfh_wOsauk" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+     
     </div>
   )
 }
