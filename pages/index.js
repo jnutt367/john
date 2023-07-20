@@ -56,8 +56,8 @@ export default function Home() {
          
               <a href="https://the-word-of-god.vercel.app/">
               <Image className={styles.arrow}
-                                src="/upward_pointing.webp"
-                                alt="avatar up to home page"
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
                                 height={75}
                                 width={90}
                                 priority
