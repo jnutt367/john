@@ -1200,10 +1200,12 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
 25 Jesus did many other things as well. If every one of them were written down, I suppose that even the whole world would not have room for the books that would be written.
             </p>
           </div>
-      </div>
-      <div className={styles.iframe}>
+
+   <div className={styles.iframe}>
            <iframe width="100%" height="315" src="https://www.youtube.com/embed/RUfh_wOsauk?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
+  </div>
+     
   </div>
   
       </main>
