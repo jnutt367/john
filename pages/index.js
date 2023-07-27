@@ -1201,8 +1201,9 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
             </p>
           </div>
       </div>
-
-  <iframe width="100%" height="600" src="https://www.youtube.com/embed/RUfh_wOsauk" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <div className={styles.iframe}>
+           <iframe width="100%" height="315" src="https://www.youtube.com/embed/RUfh_wOsauk?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
   </div>
   
       </main>
