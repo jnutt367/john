@@ -1210,6 +1210,147 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
   
       </main>
 
+<main id="philemon" className={styles.main}>
+       
+        <div id="first_thessalonians" className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       PHILEMON
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/philemon.png"
+                                                    alt="hero image for Thessalonians"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+          Philemon is the next book of the bible that I will have a description for here soon!
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://luke-three.vercel.app/#titus">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://acts-zeta.vercel.app/#hebrews">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+               <div className={styles.iframe}> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aW9Q3Jt6Yvk?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                     
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          <div className={styles.card2}>
+           <h2  className={styles.chapter2}>Philemon</h2>
+            <p> 
+1 Paul, a prisoner of Christ Jesus, and Timothy our brother,
+
+To Philemon our dear friend and fellow worker— 2 also to Apphia our sister and Archippus our fellow soldier—and to the church that meets in your home:
+
+3 Grace and peace to you[a] from God our Father and the Lord Jesus Christ.
+
+Thanksgiving and Prayer
+4 I always thank my God as I remember you in my prayers, 5 because I hear about your love for all his holy people and your faith in the Lord Jesus. 6 I pray that your partnership with us in the faith may be effective in deepening your understanding of every good thing we share for the sake of Christ. 7 Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the Lord’s people.
+
+Paul’s Plea for Onesimus
+8 Therefore, although in Christ I could be bold and order you to do what you ought to do, 9 yet I prefer to appeal to you on the basis of love. It is as none other than Paul—an old man and now also a prisoner of Christ Jesus— 10 that I appeal to you for my son Onesimus,[b] who became my son while I was in chains. 11 Formerly he was useless to you, but now he has become useful both to you and to me.
+
+12 I am sending him—who is my very heart—back to you. 13 I would have liked to keep him with me so that he could take your place in helping me while I am in chains for the gospel. 14 But I did not want to do anything without your consent, so that any favor you do would not seem forced but would be voluntary. 15 Perhaps the reason he was separated from you for a little while was that you might have him back forever— 16 no longer as a slave, but better than a slave, as a dear brother. He is very dear to me but even dearer to you, both as a fellow man and as a brother in the Lord.
+
+17 So if you consider me a partner, welcome him as you would welcome me. 18 If he has done you any wrong or owes you anything, charge it to me. 19 I, Paul, am writing this with my own hand. I will pay it back—not to mention that you owe me your very self. 20 I do wish, brother, that I may have some benefit from you in the Lord; refresh my heart in Christ. 21 Confident of your obedience, I write to you, knowing that you will do even more than I ask.
+
+22 And one thing more: Prepare a guest room for me, because I hope to be restored to you in answer to your prayers.
+
+23 Epaphras, my fellow prisoner in Christ Jesus, sends you greetings. 24 And so do Mark, Aristarchus, Demas and Luke, my fellow workers.
+
+25 The grace of the Lord Jesus Christ be with your spirit.
+
+                          
+  </p>
+          </div>
+
+          <div className={styles.card2}>
+            <h2 className={styles.chapter2}>Philemon Summary</h2>
+            <p> 
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.        
+  </p>
+          </div>
+
+        
+       
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            I have appended 1 Thessalonians to the end of 1 corinthians...
+            I have appended 2 Thessalonians to the end of 2 corinthians...
+            I have appended 1 Timothy to the end of the gospel of Matthew...
+            I have appended 2 Timothy to the end of the gospel of Mark...
+            I have appended Titus to the end of the gospel of Luke...
+            I have appended Philemon to the end of the gospel of John...
+            I will be appending Hebrews to the end of Acts ...
+            I will be appending James to the end of Romans ...
+            I will be appending Peter to the end of I Corinthians ... 
+            I will be appending 2 Peter to the end of II Corinthians ... 
+            I will be appending 1 John to the end of Galatians ... 
+            I will be appending 2 John to the end of Ephesians ... 
+            I will be appending 3 John to the end Philippians ... 
+            I will be appending Jude to the end ofColossians ... 
+                        More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>
+
+
+
+
+  
      
     </div>
   )
