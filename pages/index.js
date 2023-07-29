@@ -1233,7 +1233,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
                         </div>
     <p className={styles.parables}>
 
-          Philemon is the next book of the bible that I will have a description for here soon!
+          Philemon, a leader of the church at Colosse & friend to Paul. Paul wrote to him asking to forgive his runaway slave Onesimus, & receive him as a brother in Christ.
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://luke-three.vercel.app/#titus">
@@ -1306,8 +1306,8 @@ Paul’s Plea for Onesimus
           <div className={styles.card2}>
             <h2 className={styles.chapter2}>Philemon Summary</h2>
             <p> 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.        
+                   Paul sent Onesimus back to Philemon with this letter. He pleads with Philemon to forgive Onesimus & to treat him as a brother in Christ instead of a runaway slave...
+                    Onesimus had stolen from Philemon before running away & fled to Rome where he met Paul & became a Christian...
   </p>
           </div>
 
