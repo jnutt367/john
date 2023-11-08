@@ -25,14 +25,8 @@ export default function Home() {
         <h1 className={styles.title}>
         JOHN
         </h1>
-                  <div className={styles.image}>
-             <Image 
-                                src="/john.jpeg"
-                                alt="in the beginning there was the WORD, and the word was GOD"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+                  <div className={styles.iframe}>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/cbukgD4FcRQ?si=UA1rJfHSYPoaeoPS?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                  
               
                             
@@ -40,7 +34,7 @@ export default function Home() {
  
   </div>   
                    <p className={styles.parables}>
-        The signs John reports are proof that Christ IS God & has supernatural powers. He also highlights, Jesus was fully human by showing when he was tired, sad, hungry & loving.                                 
+        The signs John reports are proof that Jesus is God. He was with God in the beginning & He is in all things                                 
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
