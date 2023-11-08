@@ -32,7 +32,7 @@ export default function Home() {
  
   </div>   
                    <p className={styles.parables}>
-        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Fathe                                 
+        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one & only Son, who came from the Father                                 
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
