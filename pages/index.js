@@ -32,7 +32,7 @@ export default function Home() {
  
   </div>   
                    <p className={styles.parables}>
-        The signs John reports are proof that Jesus is God. He was with God in the beginning & He is in all things                                 
+        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Fathe                                 
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
