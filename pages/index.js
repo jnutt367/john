@@ -39,12 +39,12 @@ export default function Home() {
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
 
-    <p>Previous book</p>
+    <p>Previous</p>
         <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={90}
+                                height={50}
+                                width={50}
                                 priority
                               />
        </a>
@@ -52,12 +52,12 @@ export default function Home() {
          
               <a href="https://cash.app/$JNutt367">
 
-<p>For giving</p>
+<p>Giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={50}
+                                width={50}
                                 priority
                               /> 
        </a>
@@ -66,12 +66,12 @@ export default function Home() {
        
          <a href="https://acts-zeta.vercel.app/">
 
-<p>Next book</p>
+<p>Next</p>
                  <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                height={50}
+                                width={50}
                                 priority
                               />
        </a>           
