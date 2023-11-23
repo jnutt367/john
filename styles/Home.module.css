@@ -584,8 +584,7 @@
  .iframe {
         padding-left: 100px;
         padding-right: 100px;
-        margin-left: 200px; 
-        margin-right: 200px;   
+        
  }
     
 }
@@ -601,11 +600,9 @@
         grid-template-columns: 200px 200px 200px;
         
     }
-    .iframe {
-        margin-left: 200px; 
-        margin-right: 200px;      
-        padding-left: 200px;
-        padding-right: 200px;
+    .iframe { 
+        padding-left: 100px;
+        padding-right: 100px;
     }
 }
    
