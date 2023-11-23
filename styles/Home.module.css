@@ -584,8 +584,8 @@
  .iframe {
         padding-left: 100px;
         padding-right: 100px;
-        margin-left: 100px; 
-        margin-right: 100px;   
+        margin-left: 200px; 
+        margin-right: 200px;   
  }
     
 }
@@ -602,6 +602,8 @@
         
     }
     .iframe {
+        margin-left: 200px; 
+        margin-right: 200px;      
         padding-left: 200px;
         padding-right: 200px;
     }
