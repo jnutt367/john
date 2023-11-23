@@ -8,6 +8,7 @@
 
 .container {
   background-color: black;
+  background-image: linear-gradient(to bottom right, #a36464, #880808);  
   width: 100%;
   display: grid;
   align-items: center;
@@ -273,6 +274,7 @@
 
 .nav {
     background-color:#880808;
+    background-image: linear-gradient(to bottom right, #880808a, #a36464); 
     color: white;
     opacity: 1;
     padding: 5px;
@@ -326,6 +328,7 @@
 
 .grid {
     background-color:#880808;
+    background-image: linear-gradient(to bottom right, #a36464, #880808);     
     color: black;
     display: flex;
     align-items: center;
@@ -426,6 +429,7 @@
 
 .chapter {
     background-color:#880808;
+    background-image: linear-gradient(to bottom right, #880808, #a36464);     
     color: white;
     opacity: 0.8;
     opacity: 1;
