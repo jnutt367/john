@@ -1233,7 +1233,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
 
           Philemon, a leader of the church at Colosse & friend to Paul. Paul wrote to him asking to forgive his runaway slave Onesimus, & receive him as a brother in Christ.
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/#titus">
              <Image 
                                 src="/previous.webp"
@@ -1271,9 +1271,9 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           <div className={styles.card2}>
-           <h2  className={styles.chapter2}>Philemon</h2>
+           <h2  className={styles.chapter}>Philemon</h2>
             <p> 
 1 Paul, a prisoner of Christ Jesus, and Timothy our brother,
 
@@ -1302,7 +1302,7 @@ Paul’s Plea for Onesimus
           </div>
 
           <div className={styles.card2}>
-            <h2 className={styles.chapter2}>Philemon Summary</h2>
+            <h2 className={styles.chapter}>Philemon Summary</h2>
             <p> 
                    Paul sent Onesimus back to Philemon with this letter. He pleads with Philemon to forgive Onesimus & to treat him as a brother in Christ instead of a runaway slave...
                     Onesimus had stolen from Philemon before running away & fled to Rome where he met Paul & became a Christian...
