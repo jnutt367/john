@@ -274,7 +274,7 @@
 
 .nav {
     background-color:#880808;
-    background-image: linear-gradient(to bottom right, #880808a, #a36464); 
+    background-image: linear-gradient(to bottom right, #880808, #a36464); 
     color: white;
     opacity: 1;
     padding: 5px;
@@ -283,7 +283,7 @@
     justify-content: space-around;
     position: sticky;
     border: 1px solid gold;
-    box-shadow: 5px 10px 20px black inset;
+    box-shadow: 5px 10px 20px black;
 }
 
 .nav2 {
@@ -335,7 +335,7 @@
     justify-content: center;
     flex-wrap: wrap;
     border: 1px solid gold;
-    box-shadow: 5px 10px 20px black inset;
+    box-shadow: 5px 10px 20px black;
 }
 .grid2 {
     background-color: #355C7D;
