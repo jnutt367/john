@@ -2322,9 +2322,8 @@ and turn, and I would heal them.’[a]
 
 
 </div>
-<div className={styles.iframe}>
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/Z-17KxpjL0Q&autoplay&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-  </div>
+
+
       </main>
 
 
