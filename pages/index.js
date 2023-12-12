@@ -34,7 +34,7 @@ export default function Home() {
  
   </div>   
                    <p className={styles.parables}>
-        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one & only Son...                        
+ Through him all things were made; without him nothing was made that has been made.                      
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
