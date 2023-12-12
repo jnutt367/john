@@ -2341,7 +2341,7 @@ and turn, and I would heal them.’[a]
                         </div>
     <p className={styles.parables}>
 
-          Paul wrote to him asking to forgive a runaway slave, Onesimus, & receive him as a brother in Christ.
+          Paul wrote him asking to forgive a runaway slave, Onesimus, & receive him as brother in Christ.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/#titus">
