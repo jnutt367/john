@@ -34,7 +34,7 @@ export default function Home() {
  
   </div>   
                    <p className={styles.parables}>
- Through him all things were made; without him nothing was made that has been made.                      
+ Through him all things were made; without him nothing was made that has been made. In him was life,
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
