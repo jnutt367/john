@@ -1201,7 +1201,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
             </p>
           </div>
 
-   <div className={styles.iframe}>
+   <div className={styles.iframe1}>
            <iframe width="100%" height="315" src="https://www.youtube.com/embed/RUfh_wOsauk?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
   </div>
@@ -2334,48 +2334,47 @@ and turn, and I would heal them.’[a]
         <h1 className={styles.title}>
        PHILEMON
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/philemon.png"
-                                                    alt="hero image for Thessalonians"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
+          <div className={styles.iframe1}>
+                           <iframe width="100%" height="315" src="https://www.youtube.com/embed/8oz1JK19_B0?si=WkSvaGXFDhW9N25W&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                                           
 
                         </div>
     <p className={styles.parables}>
 
-          Philemon, a leader of the church at Colosse & friend to Paul. Paul wrote to him asking to forgive his runaway slave Onesimus, & receive him as a brother in Christ.
+          Paul wrote to him asking to forgive a runaway slave, Onesimus, & receive him as a brother in Christ.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/#titus">
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+<p>Give</p>
+                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://acts-zeta.vercel.app/#hebrews">
+
+<p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
