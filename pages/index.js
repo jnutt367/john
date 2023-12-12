@@ -19,18 +19,18 @@ export default function Home() {
          <div className={styles.hero}>
                <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
         JOHN
         </h1>
-                  <div className={styles.iframe}>
+                  <div className={styles.iframe1}>
       <iframe width="100%" height="315" src="https://www.youtube.com/embed/8oz1JK19_B0?si=l9dPeVY7ekXIB78X?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
   </div>   
                    <p className={styles.parables}>
-        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one & only Son, who came from the Father                                 
+        The Word became flesh & made his dwelling among us. We have seen his glory, the glory of the one & only Son...                        
 </p>
                                   <div className={styles.nav}>           
       <a href="https://luke-three.vercel.app/">
