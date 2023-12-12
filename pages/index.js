@@ -1211,7 +1211,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
       </main>
 
 
-  <main id="acts" className={styles.main}>
+  <mainclassName={styles.main}>
     
 
 
@@ -1221,7 +1221,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
        
      
         <div className={styles.hero}>
-             <h2 className={styles.holy}>THE WORD</h2>
+             <h2 id="acts" className={styles.holy}>THE WORD</h2>
                 
     <a href="https://the-word-of-god.vercel.app/">
     <h1 className={styles.bible}>
