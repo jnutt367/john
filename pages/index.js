@@ -64,7 +64,7 @@ export default function Home() {
        
            
        
-         <a href="https://acts-zeta.vercel.app/">
+         <a href="https://john-zeta.vercel.app/#acts">
 
 <p>Next</p>
                  <Image className={styles.arrow}
