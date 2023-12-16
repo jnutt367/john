@@ -34,7 +34,7 @@
 .holy {
   backgroud-color: transparent;
   color: white;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
   top: 12px;
@@ -50,7 +50,7 @@
   top: -37px;
   z-index: 10;
   margin-top: 0;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
   font-size: 52px;
   padding-left: 5px;
@@ -124,7 +124,7 @@
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
-   animation-name: parables;
+    animation-name: parables;
     animation-duration: 2s;  
     animation-iteration-count: 1;
     animation-timing-function: ease-in-out;  
@@ -254,7 +254,7 @@
   z-index: 2;
   top: -45px;
   margin-top: -120px;
-  font-family: Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
 
@@ -316,6 +316,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
+    font-family:  Dancing Script;    
 }
 
 .nav2 {
@@ -328,6 +329,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
+    font-family:  Dancing Script;    
 }
 
 .nav2 a:hover {
@@ -389,7 +391,7 @@
     color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .h2:hover {
@@ -398,7 +400,7 @@
     text-decoration: dashed;
     background-color: black;
     opacity: 0.85;
-    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Rubik Doodle Shadow, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
@@ -472,7 +474,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family:Rubik Doodle Shadow,  Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .chapter2 {
@@ -491,7 +493,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family:Rubik Doodle Shadow,  Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .card:hover,
@@ -525,7 +527,7 @@
     padding: 1.5rem;
     font-size: 1.25rem;
     line-height: 1.5;
-    font-family: monospace;
+    font-family: Dancing Script, monospace;
 }
 
 .card p:hover {
@@ -556,7 +558,7 @@
 .card2 h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-family:Rubik Doodle Shadow, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card2 h2:hover {
@@ -568,7 +570,7 @@
     padding: 1.5rem;
     font-size: 1.25rem;
     line-height: 1.5;
-    font-family: monospace;
+    font-family: Dancing Script, monospace;
 }
 
 .card2 p:hover {
