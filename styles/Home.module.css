@@ -284,7 +284,8 @@
     line-height: 1.5;
     font-size: 1rem;
     max-width: 60rem;
-}
+     font-family: Nanum Brush Script;
+         }
 
 
 
@@ -316,7 +317,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
-    font-family:  Dancing Script;    
+    font-family: Nanum Brush Script;
 }
 
 .nav2 {
@@ -329,7 +330,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
-    font-family:  Dancing Script;    
+    font-family: Nanum Brush Script;    
 }
 
 .nav2 a:hover {
@@ -527,7 +528,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: Dancing Script, monospace;
+    font-family: Nanum Brush Script, monospace;
 }
 
 .card p:hover {
@@ -570,7 +571,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: Dancing Script, monospace;
+    font-family: Nanum Brush Script, monospace;
 }
 
 .card2 p:hover {
@@ -593,7 +594,7 @@
 }
 
 .publisher {
-    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+     font-family: Nanum Brush Script, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: white;
     text-align: center;
 }
@@ -633,7 +634,8 @@
   .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;  
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
@@ -646,7 +648,7 @@
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #a36464, #880808); 
     opacity:0.7;  
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
   }
