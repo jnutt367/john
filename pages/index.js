@@ -14,10 +14,9 @@ export default function Home() {
           rel="stylesheet"
         />       
 
-     <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+      <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
             rel="stylesheet"  
               />      
-
             <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
               rel="stylesheet" 
                 />                
