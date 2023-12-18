@@ -114,13 +114,13 @@
 .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: white;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
     animation-name: parables;
