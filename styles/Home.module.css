@@ -475,7 +475,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family:Rubik Doodle Shadow,  Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .chapter2 {
@@ -494,7 +494,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family:Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
+   font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .card:hover,
@@ -516,7 +516,7 @@
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .card h2:hover {
