@@ -2353,7 +2353,7 @@ and turn, and I would heal them.’[a]
                         </div>
     <p className={styles.parables}>
 
-          Your love has given me great joy and encouragement, because you, brother, have refreshed the hearts of the Lord’s people.
+          Your love has given me great joy & encouragement, bc you, brother, have refreshed the hearts of the Lord’s people.
 
 
 </p>                                                      
