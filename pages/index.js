@@ -2353,8 +2353,7 @@ and turn, and I would heal them.’[a]
                         </div>
     <p className={styles.parables}>
 
-          Your love has given me great joy & encouragement, bc you, brother, have refreshed the hearts of the Lord’s people.
-
+          It is as none other than Paul—an old man, now also a prisoner of Christ Jesus—that I appeal to you for my son Onesimus,
 
 </p>                                                      
                   <div className={styles.nav}>           
