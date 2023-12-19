@@ -1243,7 +1243,7 @@ Jesus said, “Feed my sheep. 18 Very truly I tell you, when you were younger yo
                                  
                 </div>    
 <p className={styles.parables}>
-      “the times | dates the Father has set by his own authority. But you will receive power when the Holy Spirit comes on you;                              
+      “times | dates the Father set by his own authority. But you will receive power when the Holy Spirit comes on you;                              
 </p>                                      
                <div className={styles.nav}>           
       <a href="https://john-zeta.vercel.app/">
